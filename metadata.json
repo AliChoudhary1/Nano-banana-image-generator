@@ -1,0 +1,5 @@
+{
+  "name": "Nano Banana AI Image Editor",
+  "description": "An AI-powered application to generate creative editing prompts and edit your images using the Gemini 'Nano Banana' model. Upload a photo, get unique ideas, and see your vision come to life instantly.",
+  "requestFramePermissions": []
+}
